@@ -1,7 +1,5 @@
 #DB setup
 
-The database setup will not be evaluated in the technical assessment. Our intent is that you spend only 5-10 minutes with this setup procedure.
-
 Create Snowflake trial account
 
 https://signup.snowflake.com/
