@@ -34,7 +34,7 @@ Follow below steps to setup pipeline.
 
 > **NOTE**: This was developed using an M1 Macbook Pro. If you're on Windows or Linux, you may need to amend certain components if issues are encountered.
 
-As AWS offer a free tier, this shouldn't cost you anything unless you amend the pipeline to extract large amounts of data, or keep infrastructure running for 2+ months.
+This is intended to be run on aws free tier. Please keep pipeline extracts limited in order to avoid any charges, and terminate any services once complete. Reach out if you have any concerns!
 
 1. [Reddit API Configuration](instructions/reddit.md)
 1. [AWS Account](instructions/aws.md)
