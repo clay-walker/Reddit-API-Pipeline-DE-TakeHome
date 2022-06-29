@@ -14,9 +14,9 @@ Please perform the following tasks:
 
 ## Output
 
-The purpose of this exercise is to see how you think, and solve problems. We are interested in how you write python code and considerations you make based on experience. It is purposefully broad, and there are no purely right/wrong answers.
+The purpose of this exercise is to see how you think/code and solve problems. It is purposefully broad, and there are no purely right/wrong answers.
 
-We are expecting the following:
+Please prepare the following:
 
 1. A walk through of your solution, including all code and configuration. 
 1. Snowflake dashboard which depicts the following:
