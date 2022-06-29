@@ -14,7 +14,7 @@ Please perform the following tasks:
 
 ## Output
 
-The purpose of this exercise is to see how you think/code and solve problems. It is purposefully broad, and there are no purely right/wrong answers.
+The purpose of this exercise is to see how you think/code and solve problems. It is purposefully broad, and there are few right/wrong answers, but please use Python to complete the exercise!
 
 Please prepare the following:
 
