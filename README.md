@@ -26,7 +26,7 @@ Please prepare the following:
 - Top Posters
 - Upvote ratio of posts
 - Number of posts/day (visualized over time)
-- Cluster showing the correlation of votes to comments
+- Scatter plot showing the correlation of votes to comments
 
 ## Setup
 
