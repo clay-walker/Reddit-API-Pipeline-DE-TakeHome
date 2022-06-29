@@ -1,4 +1,4 @@
-#DB setup
+##DB setup
 
 Create Snowflake trial account
 
