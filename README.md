@@ -8,7 +8,7 @@ A data pipeline to extract Reddit data from [r/dataengineering](https://www.redd
 
 1. Extract data using [Reddit API](https://www.reddit.com/dev/api/)
 1. Load into [AWS S3](https://aws.amazon.com/s3/)
-1. Copy into [Snowflake]
+1. Copy into [Snowflake](https://snowflake.com)
 1. Transform using [dbt](https://www.getdbt.com)
 
 ## Output
@@ -32,7 +32,6 @@ Follow below steps to setup pipeline.
 
 As AWS offer a free tier, this shouldn't cost you anything unless you amend the pipeline to extract large amounts of data, or keep infrastructure running for 2+ months.
 
-1. [Overview](instructions/overview.md)
 1. [Reddit API Configuration](instructions/reddit.md)
 1. [AWS Account](instructions/aws.md)
 1. [Snowflake](instructions/snowflake.md)
