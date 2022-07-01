@@ -34,7 +34,7 @@ To get started with AWS, follow the below steps:
 
 ---
 
-[Previous Step](reddit.md) | [Next Step](setup_infrastructure.md)
+[Previous Step](reddit.md)
 
 or
 
