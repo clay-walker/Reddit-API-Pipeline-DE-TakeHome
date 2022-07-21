@@ -1,7 +1,5 @@
 # Reddit ETL Pipeline
 
-Original project here: https://github.com/ABZ-Aaron/Reddit-API-Pipeline 
-
 A data pipeline to extract Reddit data from [r/dataengineering](https://www.reddit.com/r/dataengineering/). 
 
 Please perform the following tasks:
