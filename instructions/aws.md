@@ -6,10 +6,6 @@ We're going to be using 2 services:
 
 * [Simple Storage Service (S3)](https://aws.amazon.com/s3/)  ~ This is Cloud Storage. When we extract data from Reddit, we'll store it in a CSV and push to an S3 Bucket as an object (think of a Bucket as a folder and an object as a file). This allows us to store all our raw data in the cloud.
 
-* [Redshift](https://aws.amazon.com/redshift/) ~ This is a Data Warehousing service. Utilising its Massively Parallel Processing (MPP) technology, Redshift is able to execute operations on large datasets at fast speeds. It's based on PostgreSQL, so we can use SQL to run operations here.
-
-In our case, we'd be fine to just use a local database like Postgresql. However, it's good practice to work with cloud tools like this.
-
 To get started with AWS, follow the below steps:
 
 ## Setup

@@ -18,7 +18,7 @@ dbt (data build tool) is a transformation tools that sits on top of our data war
 
 1. Once you've worked through these initial steps, click on `Start Developing`.
 
-You are now in an IDE which is connected to your Redshift cluster. Here we'll run some basic transformations on our data.
+You are now in an IDE which is connected to your Snowflake cluster. Here we'll run some basic transformations on our data.
 
 1. Click on `initialize project`. This will populate the directory on the left hand side with folder and files we may need.
 
